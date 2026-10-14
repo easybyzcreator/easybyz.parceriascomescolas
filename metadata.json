@@ -1,0 +1,6 @@
+{
+  "name": "parcerias Easy Byz x Escolas Gastronomia e Confeitaria",
+  "description": "Seus alunos vendendo com tecnologia própria e a marca da sua instituição.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
